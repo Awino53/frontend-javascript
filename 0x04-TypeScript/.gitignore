@@ -6,4 +6,4 @@ dist/
 coverage/
 .vscode/
 .idea/
-npm-debug.log*
+npm-debug.log* 
